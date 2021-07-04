@@ -1,0 +1,48 @@
+body {
+  background-color: lightcyan;
+}
+
+h1 {
+  color:black;
+  text-align: center;
+}
+
+h2 { 
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+
+  }
+
+
+h3 { 
+  text-align: center;
+}
+
+h4 {
+  font-size: 20px;
+
+  }
+
+
+h5 {
+  font-size: 22px;
+
+  }
+
+ h6 {
+  color:black;
+  text-align: center;
+
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+}
+
+
+
+
